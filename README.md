@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img align="left" alt="SQL" src="https://img.shields.io/badge/SQL-%2343853D.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> <img align="left" alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?&style=for-the-badge&logo=jira&logoColor=white" /> <img align="left" alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img align="left" alt="IBM DOORS" src="https://img.shields.io/badge/IBM%20DOORS-%23007398.svg?&style=for-the-badge&logo=ibm&logoColor=white" /> <img align="left" alt="Office Suite" src="https://img.shields.io/badge/Office%20Suite-%23D83B01.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white" /> <br><br>
 
 <!--
 **MikolajSowinski/MikolajSowinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
